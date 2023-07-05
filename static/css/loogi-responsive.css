@@ -1,0 +1,232 @@
+/* Normal desktop :992px. LG Device */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+
+.register-1 .text-middle {
+    transform: translateY(-4%);
+}
+
+.forgot-1 .text-middle {
+    transform: translateY(8%);
+}
+.login-1 .text-middle {
+    transform: translateY(3%);
+}
+.text-margin {
+    margin: 0px 0px;
+}
+
+.login-2 .text-padding {
+    padding: 28px 60px;
+}
+.login-2 .text-title p{
+    margin-bottom: -8px;
+}
+.for-2 .text-padding-2 {
+    padding: 80px 60px;
+}
+.log-2 .text-padding-2 {
+    padding: 60px 60px;
+}
+
+.extra-padding {
+    padding: 30px 30px;
+}
+
+
+.login-6 .text-margin {
+    margin: 0px 0px;
+}
+
+.extra-padding-3 {
+    padding: 30px 40px;
+}
+
+
+
+
+
+}
+
+
+
+/* small mobile layout :320px. */
+@media only screen and (max-width: 767px) {
+
+.slicknav_menu{
+	display:block;
+}	
+.mainmenu_2 {
+    display: none;
+}	
+div.slicknav_menu {
+    margin-top: -72px;
+    background: transparent;
+    padding: 16px 26px;
+}
+.slicknav_nav {
+    margin-top: 70px;
+    display: inline-block;
+    position: relative;
+}
+.slicknav_nav a {
+    color: #000;
+}
+.extra-padding {
+    padding: 0px 0px;
+}
+.extra-padding-2 {
+    padding: 0px 0px;
+}
+.login-area-2 .sign-in-form {
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+.reg-2 .text-padding {
+    padding: 50px 40px;
+}
+.for-2 .text-padding-2 {
+    padding: 80px 60px;
+}
+.log-2 .text-padding-2 {
+    padding: 60px 60px;
+}
+.for-2 .text-padding-2 {
+    padding: 60px 60px;
+}
+.tittle-middle {
+    position: absolute;
+    left: 18%;
+    top: 42%;
+}
+
+
+
+.need-padding .extra-padding {
+    padding: 0px 0px;
+}
+
+
+
+.resp-margin{
+    margin-bottom: 40px;	
+}
+.text-middle{
+	padding:0px;
+}
+
+.login-7 .extra-padding-6 {
+    padding: 60px 80px;
+}
+
+
+.banner-inner p {
+    width: 100%;
+}
+.demo-tittle p {
+    width: 100%;
+}
+
+
+	
+}
+
+/* Large Mobile layout:550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.slicknav_menu{
+	display:block;
+}
+.header-btn {
+    display:none;
+}	
+.mainmenu_2 {
+    display: none;
+}		
+div.slicknav_menu {
+    margin-top: -72px;
+    background: transparent;
+    padding: 16px 90px;
+}
+.slicknav_nav {
+    margin-top: 70px;
+    display: inline-block;
+    position: relative;
+}
+.slicknav_nav a {
+    color: #000;
+}
+.extra-padding {
+    padding: 0px 0px;
+}
+.extra-padding-2 {
+    padding: 0px 0px;
+}
+.login-area-2 .sign-in-form {
+    padding: 0px;
+}
+
+
+
+.need-padding .extra-padding {
+    padding: 0px 40px;
+}
+
+
+.text-middle{
+    margin-bottom: 40px;
+	padding:0px;
+}
+
+
+
+
+
+.forgot-1 .text-middle {
+    transform: translateY(10%);
+    padding-bottom: 25px;
+}
+.reg-2 .text-padding {
+    padding: 50px 40px;
+}
+
+
+
+
+.login-form-2 .text-padding {
+    padding: 70px 60px;
+}
+.for-2 .text-padding-2 {
+    padding: 80px 60px;
+}
+.log-2 .text-padding-2 {
+    padding: 60px 60px;
+}
+.for-2 .text-padding-2 {
+    padding: 60px 60px;
+}
+
+
+.login-7 .extra-padding-6 {
+    padding: 60px 80px;
+}
+
+
+ .banner-inner p {
+    width: 100%;
+}
+.demo-tittle p {
+    width: 100%;
+} 
+}
+
