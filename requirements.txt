@@ -1,6 +1,9 @@
 gunicorn
-Flask==2.0.1
-tensorflow==2.5.0
-Pillow==8.2.0
-opencv-python-headless==4.5.3.56
+Flask
+tensorflow
+Pillow
+opencv-python-headless
+opencv-python
 numpy
+tensorflow-base
+tensorflow-estimator
