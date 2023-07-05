@@ -2,5 +2,5 @@ gunicorn
 tensorflow
 Pillow
 numpy
-cv2
+OpenCV
 flask
