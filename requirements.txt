@@ -1,9 +1,7 @@
 gunicorn
 Flask
-tensorflow
+tensorflow==2.9.1
 Pillow
 opencv-python-headless
 opencv-python
 numpy
-tensorflow-base
-tensorflow-estimator
