@@ -1,6 +1,6 @@
 gunicorn
 tensorflow
-Pillow
+pillow
 numpy
-OpenCV
+opencv
 flask
