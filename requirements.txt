@@ -1,0 +1,6 @@
+gunicorn
+tensorflow
+PIL
+numpy
+cv2
+flask
